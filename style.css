@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+img {
+  width: 50px;
+  margin-block: 50px;
+}
+#main-title {
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+#title {
+  margin: 10px 0 45px 0;
+  color: rgb(20, 158, 238);
+}
+#sub-title {
+  margin-top: 30px;
+  font-size: 25px;
+  text-transform: capitalize;
+}
+input {
+  text-align: center;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px #000000 solid;
+  outline: none;
+  padding: 5px;
+  font-size: 18px;
+  margin-top: 15px;
+}
+#generate-certi-button {
+  display: block;
+  background-color: #008000;
+  color: #ffffff;
+  padding: 5px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin: 25px auto;
+}
