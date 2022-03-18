@@ -1,2 +1,2 @@
 # Certificate-Generator
- A certificator generator created as part of Codedamn 100 days of project event
+ ### A certificate generator created as part of  "100 days of Code" event going on Codedamn website.
